@@ -1,0 +1,19 @@
+{
+  "name": "test-npm-repo",
+  "version": "1.0.0",
+  "description": "test repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tothricsaj/test-npm-repo.git"
+  },
+  "author": "Richard Toth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tothricsaj/test-npm-repo/issues"
+  },
+  "homepage": "https://github.com/tothricsaj/test-npm-repo#readme"
+}
