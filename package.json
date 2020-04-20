@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "test repo",
   "main": "index.js",
-  bin: {
+  "bin": {
     "trz-test-npm-repo":"index.js"
   },
   "scripts": {
