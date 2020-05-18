@@ -1,10 +1,10 @@
 {
   "name": "trz-test-npm-repo",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "test repo",
-  "main": "index.js",
+  "main": "test-npm-repo.js",
   "bin": {
-    "trz-test-npm-repo": "./index.js"
+    "trz-test-npm-repo": "./bin/trz-test-npm-repo"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
