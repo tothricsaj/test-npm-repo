@@ -1,6 +1,6 @@
 {
   "name": "trz-test-npm-repo",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "test repo",
   "main": "trz-test-npm-repo.js",
   "bin": {

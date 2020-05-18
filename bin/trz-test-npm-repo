@@ -1,4 +1,4 @@
 #!/usr/bin/env node
 
-const main = require('../test-npm-repo.js')
+const main = require('../trz-test-npm-repo.js')
 main()
